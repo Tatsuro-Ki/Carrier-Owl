@@ -1,16 +1,16 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.AI OR cat:cs.CV'
+subject: 'cat:eess.SY OR cat:physics.med-ph'
 
 # 検索キーワード
-# keywords:
-#         Surgical robots: 3
-#         Surgical robotic system: 3
-#         Haptic feedback: 5
-#         Organism viscoelasticity: 5
-#         Force feedback manipulator: 5
 keywords:
-        resnet: 3
-        kaggle: 3
+        Surgical robots: 3
+        Surgical robotic system: 3
+        Haptic feedback: 5
+        Organism viscoelasticity: 5
+        Force feedback manipulator: 5
+# keywords:
+#         resnet: 3
+#         kaggle: 3
         
 # 通知の閾値
 score_threshold: 0
