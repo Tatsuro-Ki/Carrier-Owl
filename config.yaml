@@ -1,5 +1,5 @@
 # arxivの学問領域の指定
-subject: 'cat:physics.med-ph OR physics.ins-det OR eess.SY'
+subject: 'cat:physics.med-ph OR cat:physics.ins-det OR cat:eess.SY'
 
 # 検索キーワード
 keywords:
